@@ -24,7 +24,6 @@ LOCAL_SHARED_LIBRARIES :=       \
         libbinder               \
         libutils                \
         libcutils               \
-        libui                   \
         libdl                   \
         libstagefright_foundation
 
